@@ -58,6 +58,9 @@ The child of darkness is the next in line for taking over the throne of the unde
 
 ##### Weapon:
 **Staff of The Lich King**: Minions Last on the field indefinitely and respawn after being killed.
+
+##### Mask:
+**Mask of Obscurity**: Allows the user to see 5 seconds into the future.
 ***
 ### Moves:
 ***
@@ -101,7 +104,7 @@ The child of darkness is the next in line for taking over the throne of the unde
 
 **Lets Make A Deal**: The caster offers the opponent any one of their skills at the cost of only the side effect of the skill taking effect rather than the skill it's self.
 
-**Blood Sacrifice**: The user sacrifices 50% of their hp to extend the effect of any move by 3 minutes.
+**Blood Sacrifice**: The user sacrifices 50% of their hp to extend the effect of any move by 30 seconds.
 
 **Undead Alter**: The caster summons an alter boosting all *low tier*  minions stats by 40 points.
 
@@ -110,6 +113,8 @@ The child of darkness is the next in line for taking over the throne of the unde
 **Zombification**: The caster turns the target into a zombie, zombie does not follow orders and is rebellious meaning its actions are a mystery meaning it can attack anyone on the field including the caster.
 
 **Grim Reapers Judgement**: The caster summons the grim reaper to judge the battle. causing everyone's accuracy to decrease by 10% %and dodge/evasion to decrease by 10%.
+
+**Rulers Absolution**: The user goes into it's Undead King form causing all of their stats to max out for 10 seconds.
 ***
 ### Bag Items:
 ***

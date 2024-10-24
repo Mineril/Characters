@@ -21,6 +21,6 @@ Cerbah grunted and growled at his head before he hushed her the bit her ear. "*A
 ***
 *Now that Cerbah can talk the story will be told from her perspective rather  than from yours*
 
-^[cerbah unlocked **jevekler's Skull Of Information**]
+^[cerbah unlocked **jevekler's Head Of Information**]
 ***
 [[Chapter 8]]
